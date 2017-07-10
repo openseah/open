@@ -9,6 +9,7 @@ public class Result {
 	public static void main(String[] args) {
 
 		ReadUtil readUtil = new ReadUtil();
+		//test
 		//统计出蓝号为10的所有中奖号码 -- 且统计出各个号码出现的次数
 		readUtil.splitFromText("E:/caipiao.txt", "E:/caipiaoresult1.txt", 1);
 		readUtil.splitFromText("E:/caipiao.txt", "E:/caipiaoresult2.txt", 2);
