@@ -26,7 +26,7 @@ public class Result {
 		readUtil.splitFromText("E:/caipiao.txt", "E:/caipiaoresult14.txt", 14);
 		readUtil.splitFromText("E:/caipiao.txt", "E:/caipiaoresult15.txt", 15);
 		readUtil.splitFromText("E:/caipiao.txt", "E:/caipiaoresult16.txt", 16);
-				
+		System.out.println("ddddddddddd");
 		
 	}
 
