@@ -25,7 +25,7 @@ public class ReadUtil {
 			Map<Integer,Integer> redMap = new HashMap<Integer,Integer>();
 			 while ((readStr = bufReader.readLine()) != null) {
 				 redBlueBall = splitSpace(readStr);
-				 //读出所有篮球号码为blueBall的中奖号码
+				 //读出所有篮球号码为blueBall的中奖号码 --
 				 if(Integer.valueOf(redBlueBall[7]) == blueBall){
 					 bufWriter.write(redBlueBall[1]+" "+redBlueBall[2]
 							 +" "+redBlueBall[3]+" "+redBlueBall[4]+" "+
