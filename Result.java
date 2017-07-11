@@ -28,5 +28,4 @@ public class Result {
 		readUtil.splitFromText("E:/caipiao.txt", "E:/caipiaoresult16.txt", 16);
 		System.out.println("lBranch");		
 	}
-
 }
