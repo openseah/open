@@ -67,7 +67,7 @@ public class ReadUtil {
 	//split red/blue ball by space 
 	private static String[] splitSpace(String readStr) {
 	
-		return readStr.split(" ");
+		return readStr.split(" ");///
 	}	
 }
  
